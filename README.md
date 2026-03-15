@@ -31,7 +31,7 @@ Olá! Me chamo Luiz Fernando Trovo, tenho 20 anos e sou de Ourinhos - SP. Atualm
 
 ### 📫 Como me encontrar:
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-fernando-trovo-469654342/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/trovooo/" target="_blank">
