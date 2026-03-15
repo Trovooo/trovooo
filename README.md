@@ -23,10 +23,7 @@ Olá! Me chamo Luiz Fernando Trovo, tenho 20 anos e sou de Ourinhos - SP. Atualm
 - ☕ Evoluindo na **Programação Orientada a Objetos com Java**
 - 🗄️ Modelagem de **Bancos de Dados Relacionais (SQL)**
 
-### 📈 Metas para 2026:
-- [ ] Finalizar o protótipo do sistema de Carro Autônomo
-- [ ] Contribuir em meu primeiro projeto Open Source
-- [ ] Criar uma API robusta em Java Spring Boot
+
 ---
 
 ### 📫 Como me encontrar:
