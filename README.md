@@ -18,15 +18,6 @@ Olá! Me chamo Luiz Fernando Trovo, tenho 20 anos e sou de Ourinhos - SP. Atualm
 
 <br/>
 
-### 📊 Skill Proficiency
-
-**C (Algorithms & Logic)** ![55%](https://progress-bar.dev/55/?title=Progress&width=400&color=00599C)
-
-**Java (OOP & Systems)** ![45%](https://progress-bar.dev/45/?title=Progress&width=400&color=ED8B00)
-
-**SQL (Database Modeling)** ![30%](https://progress-bar.dev/30/?title=Progress&width=400&color=4479A1)
-
-<br/>
 
 ### 📚 Atualmente focado em:
 - 🚀 Aprofundando em **Estrutura de Dados com C**
